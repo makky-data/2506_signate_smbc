@@ -2,13 +2,13 @@
 
 ## 📁 Repository Structure
 
-📂 notebooks/ # 実験用 Jupyter Notebook を置く
-📂 src/ # 再利用 Python スクリプト（data.py, train.py など）
-.gitignore # キャッシュ/チェックポイント除外設定
-competition_daily.md # 日々の進捗メモ（ラフな “今日やったこと” ログ）
-competition-index.md # ポートフォリオ目次（他コンペへのリンク集）
-review_competition_daily.md # コンペ終了後の学び・振り返りまとめ
-README.md # リポジトリ概要（このファイル）
+* 📂 notebooks/ # 実験用 Jupyter Notebook を置く
+* 📂 src/ # 再利用 Python スクリプト（data.py, train.py など）
+* .gitignore # キャッシュ/チェックポイント除外設定
+* competition_daily.md # 日々の進捗メモ（ラフな “今日やったこと” ログ）
+* competition-index.md # ポートフォリオ目次（他コンペへのリンク集）
+* review_competition_daily.md # コンペ終了後の学び・振り返りまとめ
+* README.md # リポジトリ概要（このファイル）
 
 
 ## 1. Result
